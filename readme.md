@@ -11,14 +11,13 @@
 # RUN LOCALLY
 
 - fill your .env file with the appropriate values for these variables
-  MONGO_URI=
-  PORT=5000
-  PAYSTACK_SECRET_KEY=
-  PAYSTACK_PAYMENT_API=
-  PAYSTACK_VERIFICATION_API=
-  SALT_LENGTH=
-  JWT_SECRET=
-  $$
+  - MONGO_URI=
+  - PORT=5000
+  - PAYSTACK_SECRET_KEY=
+  - PAYSTACK_PAYMENT_API=
+  - PAYSTACK_VERIFICATION_API=
+  - SALT_LENGTH=
+  - JWT_SECRET=
 
 ```
 <!-- git clone the repo or download the package directly from youtube -->
